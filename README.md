@@ -1,4 +1,4 @@
-# Logicrom SDK - ADC Driver example
+# Logicrom OpenCPU SDK - ADC Driver example
 
 ## How to build
 
